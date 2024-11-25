@@ -1,4 +1,4 @@
-*** MediaPipe ile Duruş Analizi *** MediaPipe Posture Analysis Real-Time
+*** MediaPipe Posture Analysis and Feed-back in Real-Time ***
 
 Used Elements :
 -------------
@@ -11,5 +11,5 @@ Matplotlib,
 pyttsx3
 ------------
 Could be a solution for those people who stands too much on their PC
-and don't want to suffer pain from neck,back ...
+and don't want to suffer pain from neck,back... so on
                                                 
